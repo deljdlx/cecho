@@ -1,7 +1,7 @@
 # cecho - Custom echo
 
 ## Disclaimer
-This project is an experimentation and should not be used in production.
+This project is an experimentation and should not be used in production, neither in any project 😅
 
 ## Description
 `cecho` ; echo function with color and style
