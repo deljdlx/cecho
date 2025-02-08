@@ -1,4 +1,4 @@
-# cecho - Echo amélioré en C
+# cecho - Custom echo
 
 ## Disclaimer
 This project is an experimentation and should not be used in production.
